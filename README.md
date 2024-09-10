@@ -1,4 +1,5 @@
-
+# Dashboard-PandaSolutions
+<h2>Dashboard realizado  con PowerBi</h2>
 
 
 Quiero compartir un proyecto que he desarrollado en Power BI, centrado en el análisis de datos de tickets de servicio al cliente. Este proyecto utiliza como ejemplo a la empresa ficticia "PandaSolutions", especializada en soluciones tecnológicas. El objetivo principal ha sido mejorar la gestión de sus solicitudes de servicio, optimizando tiempos de respuesta y asegurando la satisfacción del cliente.
