@@ -1,6 +1,5 @@
 <h1>Hola👋, Soy Pati Lojo </h1>
-<p>Una apasionada de los datos, los analisis y la estadistica</p>
-¡Hola a todos!
+
 
 Quiero compartir un proyecto que he desarrollado en Power BI, centrado en el análisis de datos de tickets de servicio al cliente. Este proyecto utiliza como ejemplo a la empresa ficticia "ServiTech", especializada en soluciones tecnológicas. El objetivo principal ha sido mejorar la gestión de sus solicitudes de servicio, optimizando tiempos de respuesta y asegurando la satisfacción del cliente.
 
@@ -11,6 +10,6 @@ Finalmente, visualicé los resultados en dashboards e informes que destacaban pu
 #DataAnalysis #PowerBI #CustomerService #BusinessIntelligence
 <ul>
 <li><a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7239236205320540162/">DASHBOARD GESTION TICKETS EMPRESA DE SOPORTE</a></li>
-<li><a target="_blank" href=""></a></li>
+
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/patricialojozubeldia/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
