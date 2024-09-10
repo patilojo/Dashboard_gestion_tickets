@@ -1,7 +1,7 @@
 <h1>Hola👋, Soy Pati Lojo </h1>
 
 
-Quiero compartir un proyecto que he desarrollado en Power BI, centrado en el análisis de datos de tickets de servicio al cliente. Este proyecto utiliza como ejemplo a la empresa ficticia "ServiTech", especializada en soluciones tecnológicas. El objetivo principal ha sido mejorar la gestión de sus solicitudes de servicio, optimizando tiempos de respuesta y asegurando la satisfacción del cliente.
+Quiero compartir un proyecto que he desarrollado en Power BI, centrado en el análisis de datos de tickets de servicio al cliente. Este proyecto utiliza como ejemplo a la empresa ficticia "PandaSolutions", especializada en soluciones tecnológicas. El objetivo principal ha sido mejorar la gestión de sus solicitudes de servicio, optimizando tiempos de respuesta y asegurando la satisfacción del cliente.
 
 A lo largo del proceso, conecté Power BI a un conjunto de datos de Excel que incluía información clave, como estados de tickets, prioridades, fechas de apertura y cierre, entre otros. Luego, modelé estos datos y apliqué funciones avanzadas como USERELATIONSHIP e inteligencia de tiempo, lo que me permitió analizar el rendimiento del servicio a lo largo del tiempo y detectar áreas de mejora.
 
